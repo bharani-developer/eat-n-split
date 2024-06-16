@@ -1,70 +1,79 @@
-# Getting Started with Create React App
+![Eat-n-Split Banner](https://github.com/bharani-developer/far-away/blob/main/public/eat-n-split.png)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Eat-n-Split 🍽️💸
 
-## Available Scripts
+Welcome to Eat-n-Split, a simple React application to easily share the bill with your friends. This app helps you calculate how much each person owes, making dining out stress-free!
 
-In the project directory, you can run:
+## Table of Contents
+- [Description](#description)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-### `npm start`
+## Description
+Eat-n-Split is a web application built with React that allows you to split bills among friends. Simply input the total amount, the number of people, and any additional charges or discounts, and the app will calculate how much each person needs to pay.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Features
+- Input total bill amount
+- Specify number of people
+- Add additional charges or discounts
+- Calculate individual shares
+- Simple and intuitive UI
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Installation
+Follow these steps to get a copy of the project up and running on your local machine.
 
-### `npm test`
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/bharani-developer/eat-n-split.git
+    ```
+2. Navigate to the project directory:
+    ```sh
+    cd eat-n-split
+    ```
+3. Install the dependencies:
+    ```sh
+    npm install
+    ```
+4. Start the development server:
+    ```sh
+    npm start
+    ```
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Usage
+1. Open your browser and go to `http://localhost:3000`.
+2. Enter the total bill amount.
+3. Specify the number of people sharing the bill.
+4. Add any additional charges or discounts.
+5. Click "Calculate" to see how much each person owes.
 
-### `npm run build`
+## Contributing
+Contributions are welcome! Please open an issue or submit a pull request if you have any improvements or bug fixes.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1. Fork the repository.
+2. Create a new branch:
+    ```sh
+    git checkout -b feature/YourFeature
+    ```
+3. Commit your changes:
+    ```sh
+    git commit -m 'Add some feature'
+    ```
+4. Push to the branch:
+    ```sh
+    git push origin feature/YourFeature
+    ```
+5. Open a pull request.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Contact
+If you have any questions, feel free to contact me at [bharani.developer@gmail.com](mailto:bharani.developer@gmail.com).
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Happy coding! 🍽️💸
