@@ -7,6 +7,7 @@ Welcome to Eat-n-Split, a simple React application to easily share the bill with
 ## Table of Contents
 - [Description](#description)
 - [Features](#features)
+- [Demo](#demo)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -22,6 +23,9 @@ Eat-n-Split is a web application built with React that allows you to split bills
 - Add additional charges or discounts
 - Calculate individual shares
 - Simple and intuitive UI
+
+## Demo
+Check out the live demo [here](https://bharani-developer.github.io/eat-n-split/).
 
 ## Installation
 Follow these steps to get a copy of the project up and running on your local machine.
