@@ -1,4 +1,4 @@
-![Eat-n-Split Banner](https://github.com/bharani-developer/far-away/blob/main/public/eat-n-split.png)
+![Eat-n-Split Banner](https://github.com/bharani-developer/eat-n-split/blob/main/public/eat-n-split.png)
 
 # Eat-n-Split 🍽️💸
 
@@ -28,7 +28,7 @@ Follow these steps to get a copy of the project up and running on your local mac
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/bharani-developer/eat-n-split.git
+    git clone https://github.com/bharani-developer/eat-n-split
     ```
 2. Navigate to the project directory:
     ```sh
